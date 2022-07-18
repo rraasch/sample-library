@@ -1,0 +1,9 @@
+#python file with sample functions
+
+def print_hi():
+    print("HI!")
+
+def print_list(start_x, end_x):
+    l = range(start_x, end_x)
+    print(l)
+    return l
